@@ -2,7 +2,7 @@
 //CommonResponseModel response1 =  new CommonResponseModel();
 class Vendors
 {
-  
+  // Get All vendors
   function getVendors()
   {
     global $conn;
